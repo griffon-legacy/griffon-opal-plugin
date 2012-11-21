@@ -35,7 +35,7 @@ class OpalGriffonPlugin {
     ]
     String title = 'Opal brings additional SWT components'
     String description = '''
-Delivers additional SWT components provided by the [Opal library].
+Delivers additional SWT components provided by the [Opal library][1].
 
 Usage
 -----
